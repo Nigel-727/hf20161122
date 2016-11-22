@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author MAGA
+ * @author MAGA //:)
  */
 public class Absoulute {
   public static void main(String[] args) {
